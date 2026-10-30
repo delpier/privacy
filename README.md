@@ -1,2 +1,3 @@
-# privacy
-PrivacyPolicy
+# Delpier Labs — Privacy policies
+
+- [DeployBoy](deployboy)
