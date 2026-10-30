@@ -1,3 +1,3 @@
 # Delpier Labs — Privacy policies
 
-- [DeployBoy](deployboy)
+- [DeployBoy](https://delpier.github.io/privacy/deployboy)
